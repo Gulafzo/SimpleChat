@@ -26,3 +26,13 @@ C:\Users\user\Downloads\Downloads (9)\SimpleChat\SimpleChat\ChatClient\obj\Debug
 C:\Users\user\Downloads\Downloads (9)\SimpleChat\SimpleChat\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
 C:\Users\user\Downloads\Downloads (9)\SimpleChat\SimpleChat\ChatClient\obj\Debug\ChatClient.exe
 C:\Users\user\Downloads\Downloads (9)\SimpleChat\SimpleChat\ChatClient\obj\Debug\ChatClient.pdb
+C:\Users\user\Desktop\Downloads (9)\SimpleChat\SimpleChat\ChatClient\bin\Debug\ChatClient.exe.config
+C:\Users\user\Desktop\Downloads (9)\SimpleChat\SimpleChat\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\user\Desktop\Downloads (9)\SimpleChat\SimpleChat\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\user\Desktop\Downloads (9)\SimpleChat\SimpleChat\ChatClient\bin\Debug\Utilities.dll
+C:\Users\user\Desktop\Downloads (9)\SimpleChat\SimpleChat\ChatClient\bin\Debug\Utilities.pdb
+C:\Users\user\Desktop\Downloads (9)\SimpleChat\SimpleChat\ChatClient\obj\Debug\ChatClient.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Downloads (9)\SimpleChat\SimpleChat\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Downloads (9)\SimpleChat\SimpleChat\ChatClient\obj\Debug\ChatClient.csproj.CopyComplete
+C:\Users\user\Desktop\Downloads (9)\SimpleChat\SimpleChat\ChatClient\obj\Debug\ChatClient.exe
+C:\Users\user\Desktop\Downloads (9)\SimpleChat\SimpleChat\ChatClient\obj\Debug\ChatClient.pdb

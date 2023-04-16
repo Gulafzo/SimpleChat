@@ -40,7 +40,7 @@ namespace ChatClient
             socket.Dispose();
         }
 
-        private static void DisconnectClientFromServer(Socket socket)Метод `DisconnectClientFromServer(Socket socket)` // метод отключает клиентский сокет от сервера и выводит сообщение 
+        private static void DisconnectClientFromServer(Socket socket) // метод отключает клиентский сокет от сервера и выводит сообщение 
         {
             socket.Disconnect(false);
             Console.WriteLine("Client disconnected from server");
@@ -61,14 +61,14 @@ namespace ChatClient
         }
 
         private static string GetClientMessage()//  метод GetClientMessage
-    {
+        {
             Console.Write("Your message:"); 
             var message = Console.ReadLine();
             return message;//  возвращает сообщению его как строку
         }
 
         private static void ShowChatContent(string chatContent)//  метод отображает чат в консоль
-    {
+        {
             Console.WriteLine("---------------Chat content--------------------");
             Console.WriteLine(chatContent);
             Console.WriteLine("------------End of chat content----------------");
@@ -76,7 +76,7 @@ namespace ChatClient
         }
 
         private static string ReceiveChatContent(Socket socket)//  метод который получает  чат от сервера с помощью сокета
-    {           // получение чата как строка  и обработка ошибок с помощью лямбда-выражений
+        {           // получение чата как строка  и обработка ошибок с помощью лямбда-выражений
                 string chatContent = SocketUtility.ReceiveString(socket,
                 () => { Console.WriteLine($"Receive string size check from server client side exception"); },
                 () => { Console.WriteLine($"Receive string data check from server client side exception"); });
@@ -95,3 +95,4 @@ namespace ChatClient
         }
     }
 }
+
