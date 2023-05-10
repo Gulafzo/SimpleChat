@@ -1,0 +1,24 @@
+Z:\Мой диск\GitHub\SimpleChat\Utilities\bin\Debug\Utilities.dll
+Z:\Мой диск\GitHub\SimpleChat\Utilities\bin\Debug\Utilities.pdb
+Z:\Мой диск\GitHub\SimpleChat\Utilities\obj\Debug\Utilities.csprojAssemblyReference.cache
+Z:\Мой диск\GitHub\SimpleChat\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+Z:\Мой диск\GitHub\SimpleChat\Utilities\obj\Debug\Utilities.dll
+Z:\Мой диск\GitHub\SimpleChat\Utilities\obj\Debug\Utilities.pdb
+D:\Сетевое програмир\23.03.22\SimpleChat-main\Utilities\bin\Debug\Utilities.dll
+D:\Сетевое програмир\23.03.22\SimpleChat-main\Utilities\bin\Debug\Utilities.pdb
+D:\Сетевое програмир\23.03.22\SimpleChat-main\Utilities\obj\Debug\Utilities.csproj.AssemblyReference.cache
+D:\Сетевое програмир\23.03.22\SimpleChat-main\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+D:\Сетевое програмир\23.03.22\SimpleChat-main\Utilities\obj\Debug\Utilities.dll
+D:\Сетевое програмир\23.03.22\SimpleChat-main\Utilities\obj\Debug\Utilities.pdb
+C:\Users\t.student\Source\Repos\SimpleChat-main\Utilities\bin\Debug\Utilities.dll
+C:\Users\t.student\Source\Repos\SimpleChat-main\Utilities\bin\Debug\Utilities.pdb
+C:\Users\t.student\Source\Repos\SimpleChat-main\Utilities\obj\Debug\Utilities.csproj.AssemblyReference.cache
+C:\Users\t.student\Source\Repos\SimpleChat-main\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\t.student\Source\Repos\SimpleChat-main\Utilities\obj\Debug\Utilities.dll
+C:\Users\t.student\Source\Repos\SimpleChat-main\Utilities\obj\Debug\Utilities.pdb
+D:\Сетевое програмир\Git\SimpleChat-main\Utilities\bin\Debug\Utilities.dll
+D:\Сетевое програмир\Git\SimpleChat-main\Utilities\bin\Debug\Utilities.pdb
+D:\Сетевое програмир\Git\SimpleChat-main\Utilities\obj\Debug\Utilities.csproj.AssemblyReference.cache
+D:\Сетевое програмир\Git\SimpleChat-main\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+D:\Сетевое програмир\Git\SimpleChat-main\Utilities\obj\Debug\Utilities.dll
+D:\Сетевое програмир\Git\SimpleChat-main\Utilities\obj\Debug\Utilities.pdb
